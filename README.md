@@ -20,7 +20,7 @@ Curso de los viernes · comisión **R1091**.
 
 ## Trabajos prácticos obligatorios
 
-- [TP — Trabajos Prácticos 2026](Trabajos_Practicos_2026.pdf)
+- [TP — Trabajos Prácticos 2026](Trabajos_Prácticos_2026.pdf)
 
 ## Recuperatorios
 
