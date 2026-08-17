@@ -43,9 +43,7 @@ Curso de los viernes · comisión **R1091**.
 ## Aula virtual
 
 - [Aula virtual de la cátedra](https://aulasvirtuales.frba.utn.edu.ar/course/section.php?id=249781)
-- [Aula virtual del curso R1091](https://aulasvirtuales.frba.utn.edu.ar/course/view.php?id=5296)
-
-**Clave de matriculación:** `R1091`
+- [Aula virtual del curso R1091](https://aulasvirtuales.frba.utn.edu.ar/course/view.php?id=5296) — clave de matriculación: `R1091`
 
 ## Canal de YouTube
 
